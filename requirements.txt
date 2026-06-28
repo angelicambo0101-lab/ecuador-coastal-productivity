@@ -1,0 +1,14 @@
+numpy
+pandas
+xarray
+dask
+scipy
+matplotlib
+cartopy
+openpyxl
+tqdm
+copernicusmarine
+earthaccess
+cdsapi
+netCDF4
+h5netcdf
